@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxO+VvjJXrHAOObjyKSfxCEjsRyrZgCMXcfIcn3OGgP3ILPiF0xX1LnZKUzq+UFns1c/H5WhzLMKWr4FhWG9Lg==",
+  "success": true,
+  "projectFilePath": "E:\\VSProjects\\Patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
