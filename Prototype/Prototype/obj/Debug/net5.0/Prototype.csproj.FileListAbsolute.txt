@@ -1,0 +1,16 @@
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.exe
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.deps.json
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.dll
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+E:\VSProjects\Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.pdb
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.dll
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.pdb
+E:\VSProjects\Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

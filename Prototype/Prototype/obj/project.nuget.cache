@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xq6hj1Cnf66evFou3i0Byqzr5aVOwK+M8cVQHN40PaBCqbtdn4oi7RFlnoJw/RjFETUZAClCrts+h0k2YeMMtA==",
+  "success": true,
+  "projectFilePath": "E:\\VSProjects\\Patterns\\Prototype\\Prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
