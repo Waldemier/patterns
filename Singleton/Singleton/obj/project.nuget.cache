@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzY0A27R1BEeoQnX4sy2WGRfu+V9bHi5l62Q3jhJjGqYJj1tLzrSnNln9PXHerJw8E6TvsnzWIvPm/FbuQ1DdQ==",
+  "success": true,
+  "projectFilePath": "E:\\VSProjects\\Patterns\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
